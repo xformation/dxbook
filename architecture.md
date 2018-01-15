@@ -12,7 +12,7 @@ The upper half deals with the hardware aggregation on the top of cloud layer. Wi
 
 # 2--
 
-The layer no 2 , primarily involves creating resources acrosss private / public cloud.
+The layer no 2 , primarily involves creating resources acrosss private / public cloud.In case of hybrid cloud , we prefer opting for equinix IBX/ IOA  implementation so that private / public clouds are hosted in same private address space. Equinix is doing that.
 
 # 3--
 
@@ -28,7 +28,7 @@ Synectiks xformation platform currently implements the automation and orchestrat
 
 ![](/assets/microservices-arch.png)Notes :
 
-This is a standard microservice based basic application architecture. We tried to carefully refactor the basic services what any enterprise  application would require and provision them separately. Each microservices uses some combination of  Cache / SQL / NOSQL / GRAPH/ BIGDATA databases to make them individually scalable.Here follows the list of basic services along with their functionality and database components:
+This is a standard microservice based basic application architecture. We tried to carefully refactor the basic services what any enterprise  application would require and provision them separately. Each microservices uses some combination of  Cache / SQL / NOSQL / GRAPH/ BIGDATA databases to make them individually scalable. The real challenges lies in deploying and maintaind so many services along with their databases. We deploy and manage all the components of services in aggreagated hardware platform so that we can properly address their lifecycle.Here follows the list of basic services along with their functionality and database components:
 
 1. **SESSION & SECURITY   SERVICE- **Primarily  serves session / security / role based access control. This uses redis cluster \( cache db\) and nosql database \(dynamo\) .
 2. **CONFIGURATION  SERVICE- **Serves application configuration and config customization abilities. This use dynamo at the backend.
