@@ -1,4 +1,4 @@
-# Total Scale Out Platform Architecture:
+# Scale Out Platform , Total System Architecture:
 
 ![](/assets/Architechture-Diagram.jpg)
 
@@ -16,7 +16,7 @@ The layer no 2 , primarily involves creating resources acrosss private / public 
 
 # 3--
 
-The  bottom half deals with hardware and network scale out. The architecture assumes hyperscaling \( Intel RSD implementation\) to seamlessly add CPU/ Memory / Storage and create any private cloud on top of it.
+The  bottom half deals with hardware and network scale out. The architecture assumes hyperscaling \(** Intel RSD implementation**\) to seamlessly add CPU/ Memory / Storage and create any private cloud on top of it.
 
 # 4--
 
