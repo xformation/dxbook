@@ -11,7 +11,7 @@
     * [Continous Delivery](chapter1/usecases/continous-delivery.md)
   * [Support Matrix](chapter1/supportmatrix.md)
 * [Architecture](architecture.md)
-  * xformation product architecture
+  * [xformation product architecture](architecture/xformation-product-architecture.md)
   * [AWS Microservices Deployment Diagram](architecture/aws-microservices-deployment-diagram.md)
 * [Design](design.md)
 * [Assesment](assesment.md)
