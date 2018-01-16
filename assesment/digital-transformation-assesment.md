@@ -1,2 +1,2 @@
-
+!INCLUDE "index.html"
 
