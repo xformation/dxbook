@@ -19,4 +19,5 @@
 * [360 Degree System Audit](360-degree-system-audit.md)
   * [Scalability](360-degree-system-audit/scalability.md)
     * [Application Scalability](360-degree-system-audit/scalability/application-scalability.md)
+    * [Storage Scalability](360-degree-system-audit/scalability/storage-scalability.md)
 
