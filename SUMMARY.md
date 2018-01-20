@@ -27,6 +27,9 @@
     * [Deployment](360-degree-system-audit/deployment.md)
     * [Operation Support System](360-degree-system-audit/operation-support-system.md)
     * [ALM](360-degree-system-audit/alm.md)
+  * [Performance](360-degree-system-audit/performance.md)
+    * Application Performance
+    * Storage Performance
 * Security
   * [Application Security](application-security.md)
   * [Database Security](database-security.md)
