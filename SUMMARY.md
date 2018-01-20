@@ -32,6 +32,6 @@
     * [Database Security](database-security.md)
     * [Network Security](network-security.md)
   * [Performance](360-degree-system-audit/performance.md)
-    * Application Performance
+    * [Application Performance](360-degree-system-audit/performance/application-performance.md)
     * Storage Performance
 
