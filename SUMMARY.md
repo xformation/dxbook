@@ -22,4 +22,6 @@
     * [Storage Scalability](360-degree-system-audit/scalability/storage-scalability.md)
     * [Network Scalability](360-degree-system-audit/scalability/network-scalability.md)
   * [High Availability](360-degree-system-audit/high-availability.md)
+  * Management
+    * [Deployment](360-degree-system-audit/deployment.md)
 
