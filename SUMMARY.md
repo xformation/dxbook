@@ -21,5 +21,4 @@
     * [Application Scalability](360-degree-system-audit/scalability/application-scalability.md)
     * [Storage Scalability](360-degree-system-audit/scalability/storage-scalability.md)
     * [Network Scalability](360-degree-system-audit/scalability/network-scalability.md)
-  * High Availability
 
