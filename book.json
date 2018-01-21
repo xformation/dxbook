@@ -11,8 +11,8 @@
             		"size": 2        
        		 },
        		"theme-gestalt": {
-                   "logo": "/assets/logo.png",            
-                   "favicon": "/assets/favicon.png",       
+                   "logo": "/assets/300-dpi-high-resolution-logo.png",            
+                   "favicon": "/assets/home.png",       
                    "baseUrl": null,                
                    "excludeDefaultStyles": true,        
                    "doNotHideChildrenChapters" : false        
