@@ -1,10 +1,8 @@
 {
     "plugins": ["toggle-chapters","include-html","disqus"],
     "pluginsConfig": {
-        "fontsettings": {
-                "theme": 'white', // 'sepia', 'night' or 'white', 
-                "family": 'sans', // 'serif' or 'sans', 
-                "size": 2         // 1 - 4 
-                }
-        }    
+        "disqus": {
+            "shortName": "XXXXXXX"
+        }
+    }
 }
