@@ -26,7 +26,6 @@
   * Management
     * [ALM](360-degree-system-audit/alm.md)
   * Security
-    * [Application Security](application-security.md)
     * [Database Security](database-security.md)
     * [Network Security](network-security.md)
   * [Performance](360-degree-system-audit/performance.md)
