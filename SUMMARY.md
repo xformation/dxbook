@@ -24,7 +24,6 @@
     * Performance
   * [High Availability](360-degree-system-audit/high-availability.md)
   * Management
-    * [Operation Support System](360-degree-system-audit/operation-support-system.md)
     * [ALM](360-degree-system-audit/alm.md)
   * Security
     * [Application Security](application-security.md)
