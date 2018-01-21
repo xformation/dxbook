@@ -1,3 +1,3 @@
 {
-    "plugins": ["toggle-chapters","include-html"]
+    "plugins": ["toggle-chapters","include-html","disqus"]
 }
