@@ -1,8 +1,5 @@
 {
     "plugins": ["toggle-chapters","include-html","disqus"]
     "pluginsConfig": {
-        "disqus": {
-            "shortName": "discuss"
-        }
     }
 }
