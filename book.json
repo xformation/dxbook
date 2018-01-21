@@ -15,7 +15,7 @@
                    "favicon": "/assets/favicon.png",       
                    "baseUrl": null,                
                    "excludeDefaultStyles": true,        
-                   "doNotHideChildrenChapters" : "false"        
+                   "doNotHideChildrenChapters" : false        
                  }
 	}
 }
