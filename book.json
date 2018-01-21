@@ -9,7 +9,7 @@
             		"theme": "white", 
             		"family": "sans", 
             		"size": 2        
-       		 }
+       		 },
        		"theme-gestalt": {
                    "logo": "/assets/logo.png",            
                    "favicon": "/assets/favicon.png",       
