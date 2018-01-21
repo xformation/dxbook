@@ -1,13 +1,13 @@
 {
     "plugins": ["toggle-chapters","include-html","disqus","fontSettings"],
     "pluginsConfig": {
-        "disqus": {
+        ["disqus": {
             "shortName": "XXXXXXX"
         },
         "fontSettings": {
             "theme": "sepia", "night" or "white",
             "family": "serif" or "sans",
             "size": 1 to 4
-        }
+        }]
     }
 }
