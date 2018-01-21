@@ -14,7 +14,7 @@ Today business demand scalability , agility , performance , reliability , securi
 
 ---
 
-# Key Benfits
+# Key Benefits
 
 ---
 
