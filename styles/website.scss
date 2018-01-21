@@ -1,8 +1,8 @@
 @import "../node_modules/gitbook-plugin-theme-gestalt/src/scss/variables";
 
 // Put your variable overrides here
-$book-background: white;
-$page-background: white;
+$book-background: $color-gray-light;
+$page-background: $color-gray-light;
 $sidebar-background: $color-gray-lightest;
 $color-border: black;
 
