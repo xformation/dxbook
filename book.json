@@ -17,5 +17,8 @@
                    "excludeDefaultStyles": true,        
                    "doNotHideChildrenChapters" : false        
                  }
-	}
+	},
+	"styles": {
+               "website": "./styles/website.scss"
+        }
 }
