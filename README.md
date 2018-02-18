@@ -1,6 +1,6 @@
 # **Xformation -- Multi cloud container orchestration and continuous delivery platform.**
 
-Using xformation platform , customers can use it to go to any cloud , create container clusters, develop and deploy micro service / bigdata / IOT applications seamlessly and manage operation with our automation bots.The xformation platform accelerate   Digital Transformation journey. As every business today need to address volume / velocity challenges , so it also must evolve to stay ahead of demand.
+Using xformation platform , customers can go to any cloud , create container clusters, develop and deploy micro service / bigdata / IOT applications seamlessly and manage operations with existing automation bots.The xformation platform accelerate   Digital Transformation journey. As every business today need to address volume / velocity challenges , so it also must evolve to stay ahead of demand.
 
 ![](/assets/it-evolve.png)
 

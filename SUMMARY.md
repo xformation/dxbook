@@ -15,7 +15,7 @@
   * [AWS Microservices Deployment Diagram](architecture/aws-microservices-deployment-diagram.md)
 * [Design](design.md)
 * [Defined Transformation](assesment.md)
-  * [Assesment](assesment/digital-transformation-assesment.md)
+  * [Discovery/Assesment](assesment/digital-transformation-assesment.md)
   * [Gap Audit](360-degree-system-audit.md)
     * [Scalability](360-degree-system-audit/scalability.md)
       * [Application Scalability](360-degree-system-audit/scalability/application-scalability.md)
