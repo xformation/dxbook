@@ -1,6 +1,6 @@
 # Intent
 
-Smart tooling and automation hugely streamlines delivery and management within organization. We don’t want to waste our customers' resources on ‘reinventing the wheel’.By productising our expertise and carefully researching the best third party tooling on the market, we aim to deliver to you a complete solution which offers you cost-efficient secure cloud and on the top of it , extremely scalable , reliable ,secure application done right. The goal of xformation platform to simplify the IT, make customers life more simple , give them flexibility to go to any cloud , create container clusters, develop and deploy micro service / bigdata / IOT applications seamlessly and manage operation with our automation bots.
+Smart tooling and automation hugely streamlines delivery and management within organization. We don’t want to waste our customers' resources on ‘reinventing the wheel’.By productising our expertise and carefully researching the best third party tooling on the market, we aim to deliver to you a complete solution which offers you cost-efficient secure cloud and on the top of it , extremely scalable , reliable ,secure application done right. The goal of xformation platform to simplify the digital transformation, make customers life more simple , give them flexibility to go to any cloud , create container clusters, develop and deploy micro service / bigdata / IOT applications seamlessly and manage operation with our automation bots.
 
 # Key Features
 
@@ -10,9 +10,9 @@ Smart tooling and automation hugely streamlines delivery and management within o
 
 #### Use Cases-
 
-*       [AWS Container Cluster Provisioning](/chapter1/usecases/everything-software-defined/aws-container-cluster-support.md)
-*      [Azure Container Cluster Provisioning](/chapter1/usecases/everything-software-defined/azure-container-cluster.md)
-*      [Google Cloud  Conatiner Cluster Provisioning](/chapter1/usecases/everything-software-defined/gcp-container-cluster.md)
+* [AWS Container Cluster Provisioning](/chapter1/usecases/everything-software-defined/aws-container-cluster-support.md)
+* [Azure Container Cluster Provisioning](/chapter1/usecases/everything-software-defined/azure-container-cluster.md)
+* [Google Cloud  Conatiner Cluster Provisioning](/chapter1/usecases/everything-software-defined/gcp-container-cluster.md)
 
 ### Continous Delivery
 
