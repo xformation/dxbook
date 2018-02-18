@@ -4,7 +4,7 @@ As every business today need to address volume / velocity challenges , so it als
 
 ![](/assets/it-evolve.png)
 
-Using xformation platform , customers can go to any cloud , create container clusters, develop and deploy micro service / bigdata / IOT applications seamlessly and manage operations with existing automation bots.The xformation platform accelerate   Digital Transformation journey. 
+Using xformation platform , customers enjoys the flexibility to go any cloud , create container clusters, develop and deploy micro service / bigdata / IOT applications seamlessly and manage operations with existing automation bots.The xformation platform accelerate   Digital Transformation journey.
 
 Synectiks open xformation platform the consolidation of tools / utlities within a simplified and extensible architecture. Customers can use all the existing assets and best practices to perform  the transformation in a defined and secure way.
 
