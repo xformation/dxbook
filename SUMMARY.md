@@ -14,7 +14,7 @@
   * [xformation product architecture](architecture/xformation-product-architecture.md)
   * [AWS Microservices Deployment Diagram](architecture/aws-microservices-deployment-diagram.md)
 * [Design](design.md)
-* [Assesment](assesment.md)
+* [Transformation](assesment.md)
   * [Digital Transformation Assesment](assesment/digital-transformation-assesment.md)
 * [360 Degree System Audit](360-degree-system-audit.md)
   * [Scalability](360-degree-system-audit/scalability.md)
