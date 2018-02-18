@@ -60,8 +60,9 @@ Following are the key values , the xformation platform aims to deliver:
 
 # ROI & TCO
 
-* TCO reduced to 60%, because of 80% operation cost , 70% Hardware Cost , 100% License cost saving.
-* ROI – Typical micro services project takes 60 man months. It delivers 10X agility, 30X reliability , 10X operational efficiency.
+* TCO reduced to 50%, because of 80% operation cost , 50% Hardware Cost , 100% License cost saving.
 
+The detail ROI analysis as follows:
 
+![](/assets/roi.png)
 
