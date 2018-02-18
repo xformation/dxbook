@@ -1,24 +1,56 @@
 {
-	"plugins": ["toggle-chapters", "include-html", "disqus", "fontsettings","theme-gestalt", "-theme-default",
-	"styles-sass-fix"],
+	"plugins": [
+		"collapse-expand-chapter",
+		"theme-sectionfy"
+	],
 	"pluginsConfig": {
 		"disqus": {
 			"shortName": "xformation"
 		},
 		"fontsettings": {
-            		"theme": "white", 
-            		"family": "sans", 
-            		"size": 2        
-       		 },
-       		"theme-gestalt": {
-                   "logo": "/assets/300-dpi-high-resolution-logo.png",            
-                   "favicon": "/assets/home.png",       
-                   "baseUrl": null,                
-                   "excludeDefaultStyles": true,        
-                   "doNotHideChildrenChapters" : false        
-                 }
+			"theme": "white",
+			"family": "sans",
+			"size": 2
+		},
+		"theme-gestalt": {
+			"logo": "/assets/300-dpi-high-resolution-logo.png",
+			"favicon": "/assets/home.png",
+			"baseUrl": null,
+			"excludeDefaultStyles": true,
+			"doNotHideChildrenChapters": false
+		},
+		"theme-sectionfy": {
+			"title": "Testing book",
+			"logo": "/assets/300-dpi-high-resolution-logo.png",
+			"favicon": "/assets/home.png",
+			"footer": {
+				"copyright-text": "©2018 Synectiks, Inc. All rights reserved",
+				"links": [
+					{
+						"title": "Home",
+						"link": "/home"
+					},
+					{
+						"title": "About",
+						"link": "/about"
+					}
+				]
+			},
+			"header":{
+				"links": [
+					{
+						"title": "Home",
+						"link": "/home"
+					},
+					{
+						"title": "About",
+						"link": "/about"
+					}
+				]
+			}
+		}
 	},
 	"styles": {
-               "website": "./styles/website.scss"
-        }
+		"website": "./styles/website.scss"
+	}
 }
