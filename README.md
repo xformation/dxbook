@@ -1,10 +1,16 @@
 # **Xformation -- Multi cloud container orchestration and continuous delivery platform.**
 
-The xformation platform simplify the IT. Customer can use it to go to any cloud , create container clusters, develop and deploy micro service / bigdata / IOT applications seamlessly and manage operation with our automation bots.
+Using xformation platform , customers can use it to go to any cloud , create container clusters, develop and deploy micro service / bigdata / IOT applications seamlessly and manage operation with our automation bots.The xformation platform accelerate   Digital Transformation journey. As every business today need to address volume / velocity challenges , so it also must evolve to stay ahead of demand.
+
+![](/assets/it-evolve.png)
+
+Synectiks open xformation platform the consolidation of tools / utlities within a simplified and extensible architecture. Customers can use all the existing assets and best practices to perform  the transformation in a defined and secure way.
+
+![](/assets/xformation.png)
 
 # Inspiration :
 
-Once I interacted with a customer , who had extremely innovative mindset and he had crazy ideas that could help billions of people. But everytime he created some applications , he faced operation challenges and he spent his most time to address them. I wanted to contribute something for those people who have extreme brilliant mind and aiming to deliver application that creates positive impact to a larger society.The xformation platform will help them to create and deliver  people friendly applications to mass with less operations.
+Once I interacted with a customer , who had extremely innovative mindset and he had crazy ideas that could help billions of people. But everytime he created some applications , he faced operation challenges and he spent his most time to address them. I wanted to contribute something for those people who have extreme brilliant mind and aiming to deliver application that creates positive impact to a larger society.The xformation platform will help them to create and deliver  people friendly applications to mass with less operations and time.
 
 # Rationale :
 
