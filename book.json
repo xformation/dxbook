@@ -1,7 +1,8 @@
 {
 	"plugins": [
 		"collapse-expand-chapter",
-		"theme-sectionfy"
+		"theme-sectionfy",
+		"include-html"
 	],
 	"pluginsConfig": {
 		"disqus": {
