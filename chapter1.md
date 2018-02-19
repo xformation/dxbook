@@ -6,7 +6,7 @@ Smart tooling and automation hugely streamlines delivery and management within o
 
 1. ## Everything Software defined \(IAAC & CONTAINER ORCHESTRATION\)
 
-   1. Through our code , customers can go to any cloud \(private/public\), aggregate hardware resources in pure software defined way and pupulate highly secured elastic platform to deliver application services.It will help customers to create  and maintain contianer delivery clusters \( AWS ECS , Kubernetes, Messos DCOS, SWARM\) across cloud \(private / public\) in a most efficient manner.
+   1. Through our code , customers can go to any cloud \(private/public\), aggregate hardware resources in pure software defined way and pupulate highly secured elastic platform to deliver application services.It will help customers to create  and maintain contianer delivery clusters \( AWS ECS , Kubernetes, Messos DCOS, SWARM\) across cloud \(private / public\) in a most efficient manner.It will create a landing platform in cloud which is highly secure and elastic and services can just be deployed across cloud in distributed manner.
 
       #### Use Cases-
 
