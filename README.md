@@ -1,10 +1,14 @@
 # **Xformation -- Multi cloud container orchestration and continuous delivery platform.**
 
-As every business today need to address volume / velocity challenges , so it also must evolve to stay ahead of demand.
+As every business today need to address volume / velocity challenges , so the  it also must evolve to stay ahead of demand.
+
+Some of the key transformation trends that is happening to cater the demand of volume /velocity is as below:
 
 ![](/assets/it-evolve.png)
 
-Using xformation platform , customers enjoys the flexibility to go any cloud , create container clusters, develop and deploy micro service / bigdata / IOT applications seamlessly and manage operations with existing automation bots.The xformation platform accelerate   Digital Transformation journey.
+Xformation platform is accelarating these transformation.
+
+Using xformation platform , customers enjoys the flexibility to go any cloud , create container clusters, develop and deploy micro service / bigdata / IOT applications seamlessly and manage operations with existing automation bots.The xformation platform accelerate   Digital Transformation journey, reduce time to do modernization in most defined and secure way.
 
 Synectiks open xformation platform the consolidation of tools / utlities within a simplified and extensible architecture. Customers can use all the existing assets and best practices to perform  the transformation in a defined and secure way.
 
