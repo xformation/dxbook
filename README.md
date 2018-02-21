@@ -1,10 +1,22 @@
 # **Xformation -- Multi cloud container orchestration and continuous delivery platform.**
 
-The xformation platform simplify the IT. Customer can use it to go to any cloud , create container clusters, develop and deploy micro service / bigdata / IOT applications seamlessly and manage operation with our automation bots.
+As every business today need to address volume / velocity challenges , so the  it also must evolve to stay ahead of demand.
+
+Some of the key transformation trends that is happening to cater the demand of volume /velocity is as below:
+
+![](/assets/it-evolve.png)
+
+Xformation platform is accelarating these transformation.
+
+Using xformation platform , customers enjoys the flexibility to go any cloud , create container clusters, develop and deploy micro service / bigdata / IOT applications seamlessly and manage operations with existing automation bots.The xformation platform accelerate   Digital Transformation journey, reduce time to do modernization in most defined and secure way.
+
+Synectiks open xformation platform the consolidation of tools / utlities within a simplified and extensible architecture. Customers can use all the existing assets and best practices to perform  the transformation in a defined and secure way.
+
+![](/assets/xformation.png)
 
 # Inspiration :
 
-Once I interacted with a customer , who had extremely innovative mindset and he had crazy ideas that could help billions of people. But everytime he created some applications , he faced operation challenges and he spent his most time to address them. I wanted to contribute something for those people who have extreme brilliant mind and aiming to deliver application that creates positive impact to a larger society.The xformation platform will help them to create and deliver  people friendly applications to mass with less operations.
+I had an oppurtunity to work with a great customer , who had extremely innovative mindset and he had crazy ideas that could help billions of people. But everytime he created some applications  with leagcy n-tier architecture, he faced operation challenges while catering volume & velocity and he spent his most time to address them.He was aware that he needed to address the application architecture and do a major replatforming of the existing n-tier architecture. All he was looking for a safe and clear migration path that takes less time and address the scalability and operation chanllenges. I wanted to contribute something for those people who need a platform to do transformation and moderinization in less time in defined way..The xformation platform will help them to create and deliver  highly scalable , people friendly applications to mass with less operations and time.
 
 # Rationale :
 
@@ -23,6 +35,12 @@ Today business demand scalability , agility , performance , reliability , securi
 * Create/deploy/ manage better app with less capex & opex
 
 ---
+
+# Values
+
+Following are the key values , the xformation platform aims to deliver:
+
+![](/assets/values.png)
 
 # Social Impact
 
@@ -48,8 +66,9 @@ Today business demand scalability , agility , performance , reliability , securi
 
 # ROI & TCO
 
-* TCO reduced to 60%, because of 80% operation cost , 70% Hardware Cost , 100% License cost saving.
-* ROI – Typical micro services project takes 60 man months. It delivers 10X agility, 30X reliability , 10X operational efficiency.
+* TCO reduced to 50%, because of 80% operation cost , 50% Hardware Cost , 100% License cost saving.
 
+The detail ROI analysis as follows:
 
+![](/assets/roi.png)
 

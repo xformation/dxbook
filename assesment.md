@@ -1,9 +1,10 @@
-Some customers want us to do initial assesment program involving discovery / planning  to bring xformation platform into the organization.This section focuses on giving details about our DX assesment program.
-
-We are primarily doing two kind of assesment :
-
-1. [Digital Transformation Assesment ](/assesment/digital-transformation-assesment.md "An Assesment to DX transformation")
-2. Cloud Migration Assesment 
 
 
+
+
+
+
+![](/assets/transformation.png)
+
+The xformation platform has captured all the best practices and tooling to perform the monolioth to microservices transformation in best possible way. The platform provides examples in every step to make the journey simple and defined.
 

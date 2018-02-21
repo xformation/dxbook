@@ -1,7 +1,8 @@
 {
 	"plugins": [
 		"collapse-expand-chapter",
-		"theme-sectionfy"
+		"theme-sectionfy",
+		"include-html"
 	],
 	"pluginsConfig": {
 		"disqus": {
@@ -12,17 +13,10 @@
 			"family": "sans",
 			"size": 2
 		},
-		"theme-gestalt": {
-			"logo": "/assets/300-dpi-high-resolution-logo.png",
-			"favicon": "/assets/home.png",
-			"baseUrl": null,
-			"excludeDefaultStyles": true,
-			"doNotHideChildrenChapters": false
-		},
 		"theme-sectionfy": {
 			"title": "Testing book",
-			"logo": "/assets/300-dpi-high-resolution-logo.png",
-			"favicon": "/assets/home.png",
+			"logo": "assets/300-dpi-high-resolution-logo.png",
+			"favicon": "assets/home-icon.png",
 			"footer": {
 				"copyright-text": "©2018 Synectiks, Inc. All rights reserved",
 				"links": [
