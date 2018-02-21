@@ -16,7 +16,7 @@
 		"theme-sectionfy": {
 			"title": "Testing book",
 			"logo": "assets/300-dpi-high-resolution-logo.png",
-			"favicon": "assets/home.png",
+			"favicon": "assets/home-icon.png",
 			"footer": {
 				"copyright-text": "©2018 Synectiks, Inc. All rights reserved",
 				"links": [
