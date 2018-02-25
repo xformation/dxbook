@@ -42,7 +42,7 @@ Today business demand scalability , agility , performance , reliability , securi
 
 Following are the key values , the xformation platform aims to deliver:
 
-![](/assets/values.png)
+![](/assets/xformation-values.png)
 
 # Social Impact
 
