@@ -1,33 +1,33 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
-* [Requirement](chapter1.md)
-  * [User Interfaces](chapter1/userinterfaces.md)
-  * [Use Cases](chapter1/usecases.md)
-    * [Everything Software Defined](chapter1/usecases/everything-software-defined.md)
-      * [AWS container cluster support](chapter1/usecases/everything-software-defined/aws-container-cluster-support.md)
-      * [Azure Container Cluster](chapter1/usecases/everything-software-defined/azure-container-cluster.md)
-      * [GCP container cluster](chapter1/usecases/everything-software-defined/gcp-container-cluster.md)
-    * [Continous Delivery](chapter1/usecases/continous-delivery.md)
-  * [Support Matrix](chapter1/supportmatrix.md)
-* [Architecture](architecture.md)
+* [Requirement](requirement/README.md)
+  * [User Interfaces](requirement/user-interfaces.md)
+  * [Use Cases](requirement/use-cases/README.md)
+    * [Everything Software Defined](requirement/use-cases/everything-software-defined/README.md)
+      * [AWS container cluster support](requirement/use-cases/everything-software-defined/aws-container-cluster-support.md)
+      * [Azure Container Cluster](requirement/use-cases/everything-software-defined/azure-container-cluster.md)
+      * [GCP container cluster](requirement/use-cases/everything-software-defined/gcp-container-cluster.md)
+    * [Continous Delivery](requirement/use-cases/continous-delivery.md)
+  * [Support Matrix](requirement/support-matrix.md)
+* [Architecture](architecture/README.md)
   * [xformation product architecture](architecture/xformation-product-architecture.md)
   * [AWS Microservices Deployment Diagram](architecture/aws-microservices-deployment-diagram.md)
 * [Design](design.md)
-* [Defined Transformation](assesment.md)
-  * [Discovery/Assesment](assesment/digital-transformation-assesment.md)
-  * [Gap Audit](360-degree-system-audit.md)
-    * [Scalability](360-degree-system-audit/scalability.md)
-      * [Application Scalability](360-degree-system-audit/scalability/application-scalability.md)
-      * [Storage Scalability](360-degree-system-audit/scalability/storage-scalability.md)
-      * [Network Scalability](360-degree-system-audit/scalability/network-scalability.md)
-    * [High Availability](360-degree-system-audit/high-availability.md)
+* [Defined Transformation](defined-transformation/README.md)
+  * [Discovery/Assesment](defined-transformation/discovery-assesment.md)
+  * [Gap Audit](defined-transformation/gap-audit/README.md)
+    * [Scalability](defined-transformation/gap-audit/scalability/README.md)
+      * [Application Scalability](defined-transformation/gap-audit/scalability/application-scalability.md)
+      * [Storage Scalability](defined-transformation/gap-audit/scalability/storage-scalability.md)
+      * [Network Scalability](defined-transformation/gap-audit/scalability/network-scalability.md)
+    * High Availability
     * Management
-      * [ALM](360-degree-system-audit/alm.md)
+      * ALM
     * Security
-      * [Network Security](network-security.md)
-      * [Application Security](application-security.md)
-    * [Performance](360-degree-system-audit/performance.md)
-      * [Application Performance](360-degree-system-audit/performance/application-performance.md)
-      * [Storage Performance](360-degree-system-audit/performance/storage-performance.md)
+      * [Network Security](defined-transformation/gap-audit/security/network-security.md)
+      * Application Security
+    * Performance
+      * [Application Performance](defined-transformation/gap-audit/performance/application-performance.md)
+      * [Storage Performance](defined-transformation/gap-audit/performance/storage-performance.md)
 

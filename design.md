@@ -1,6 +1,6 @@
-The overall  functional Design is as follows
+# Design
 
+The overall functional Design is as follows
 
-
-![](/assets/xformation-platform.png)
+![](.gitbook/assets/xformation-platform.png)
 
