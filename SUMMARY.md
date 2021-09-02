@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* Features
+* [Features](features/index.md)
     * [Multi & Hybrid Cloud Management](features/cloud-management.md)
         * Cloud Asset Discovery
         * Cloud Provisioning
