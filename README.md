@@ -15,3 +15,14 @@ Simplify and accelerate the cloud native adoption in multi cloud hybrid environm
 ![](https://i.imgur.com/Wb9xe0S.png)
 
 ## Key Funcationalities
+
+
+
+| Multi & Hybrid Cloud Management | DevSecOps Tooling|
+| -------- | -------- |
+| ![](https://i.imgur.com/B10fBo3.png)  | ![](https://i.imgur.com/1vJIXfY.png)   |
+
+## Migration & Modernization Use Cases 
+
+![](https://i.imgur.com/lLPHkAj.png)
+
